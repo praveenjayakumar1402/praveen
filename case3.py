@@ -1,6 +1,6 @@
 m=raw_input()
-b=['a','e','i','o','u','A','E','I','O','U']
-if m in b:
+n=['a','e','i','o','u','A','E','I','O','U']
+if m in n:
 	print("Vowel")
 else:
 	print("Consonant")
